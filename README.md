@@ -46,6 +46,31 @@ python main.py
 
 ```
 4. After training, test the model by changing the image file path in:
+```bash
+file_path = "test.jpg"  # Replace with your image file
 
-5. 
+```
+5. The script will display the image with a prediction label and bounding box using OpenCV.
+
+📊 Output Examples
+Training Accuracy Plot:
+A graph showing training and validation accuracy over epochs.
+
+Prediction Result:
+The script will:
+
+- Resize and normalize the image
+- Predict using the CNN model
+- Draw a colored box and label on the fruit image:
+  => 🟩 Green box: Ripe
+  => 🟨 Yellow box: Not Ripe
+
+
+🧪 Future Enhancements
+- Add object detection using YOLO or SSD for bounding ripe fruit automatically
+- Expand dataset for better accuracy
+- Deploy model with a web interface using Streamlit or Flask
+
+🧑‍💻 Author
+Developed by [Aznal Anas] | Ai Tools
 
