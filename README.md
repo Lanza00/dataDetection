@@ -9,7 +9,9 @@ This project is a deep learning application that classifies whether a fruit is *
 The dataset should be organized as follows inside the `projectDataset` folder:
 
 projectDataset/
+
 ├── masak/ # Folder with images of ripe fruit
+
 └── belum_masak/ # Folder with images of unripe fruit
 
 
