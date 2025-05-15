@@ -69,8 +69,8 @@ The script will:
 - Resize and normalize the image
 - Predict using the CNN model
 - Draw a colored box and label on the fruit image:
-  => 🟩 Green box: Ripe
-  => 🟨 Yellow box: Not Ripe
+  - 🟩 Green box: Ripe
+  - 🟨 Yellow box: Not Ripe
 
 
 🧪 Future Enhancements
