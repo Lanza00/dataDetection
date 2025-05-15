@@ -6,7 +6,12 @@ This project is a deep learning application that classifies whether a fruit is *
 
 ## 📁 Dataset Structure
 
-The dataset should be organized as follows inside the `projectDataset` folder:
+This project uses a dataset of oil palm fruit ripeness from Kaggle:
+
+🔗 [Ripeness of Oil Palm Fruit Dataset (by ramadanizikri112)](https://www.kaggle.com/datasets/ramadanizikri112/ripeness-of-oil-palm-fruit?select=Belum+Masak)
+
+Download the dataset and extract it into the `projectDataset/` folder with the following structure:
+
 
 projectDataset/
 
