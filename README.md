@@ -81,3 +81,10 @@ The script will:
 🧑‍💻 Author
 Developed by [Aznal Anas] | Ai Tools
 
+
+
+---
+
+Let me know if you want me to generate this file for download or include a badge (like TensorFlow version, license, etc.)!
+
+
