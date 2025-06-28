@@ -85,6 +85,10 @@ Developed by [Aznal Anas] | Ai Tools
 
 ---
 
-Let me know if you want me to generate this file for download or include a badge (like TensorFlow version, license, etc.)!
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10+-FF6F00?logo=tensorflow)
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 
